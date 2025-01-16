@@ -29,6 +29,8 @@ Bitcoin24 does not model Bitcoin's volatility, as its volatility profile has evo
 
 ### This is a forked version with adjusted data entries
 - <a href= "https://x.com/LaDoger21">LaDoger</a>
+- <a href= "https://x.com/LaDoger21/status/1879715028854808701">Rationale for the BTC Price Model are explained in this post</a>
+- <a href= "https://x.com/LaDoger21/status/1879751909483184597">Rationale for the Macro Model are explained in this post</a>
 
 <br>
 <br>
